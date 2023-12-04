@@ -1,3 +1,0 @@
-# Prueba home
-
-> que pasa

@@ -10,4 +10,4 @@
 - Edición y Fusión
 
 [Repo]()
-[Iniciar](/home)
+[Iniciar](/introduccion.md)
