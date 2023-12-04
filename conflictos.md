@@ -1,0 +1,3 @@
+# Detección de conflictos
+
+> Texto
