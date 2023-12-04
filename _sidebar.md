@@ -1,4 +1,3 @@
-* [Inicio](/)
 * [Introducción](/introduccion.md)
 * [Configuración de versionado](/versionado.md)
 * [Administrar permisos](/permisos.md)
